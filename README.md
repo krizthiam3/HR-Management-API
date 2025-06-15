@@ -8,6 +8,8 @@ Sistema de Gestión de Recursos Humanos desarrollado como desafío técnico para
 
 Esta API permite gestionar empleados, departamentos y puestos (positions) en una organización. Implementa operaciones CRUD completas para cada entidad, con buenas prácticas de arquitectura, validaciones, desacoplamiento y seguridad básica.
 
+![image](https://github.com/user-attachments/assets/1d06de29-1077-4cf5-9616-b991417fcee7)
+
 ---
 
 ## 🛠️ Tecnologías Utilizadas
