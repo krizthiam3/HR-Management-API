@@ -19,7 +19,7 @@ Esta API permite gestionar empleados, departamentos y puestos (positions) en una
 - Entity Framework Core (Code First)
 - SQL Server (Instancia configurada)
 - Swagger (documentación interactiva)
-- Serilogs (opcional)
+- Serilogs 
 - MSTest y Moq
 - JWT
 - Migrations
@@ -47,7 +47,7 @@ HRManagement.API/
 ## 🧠 Principios Aplicados
 
 - ✅ Inyección de Dependencias (DI)
-- ✅ Repositorio por entidad (`IEmployeeRepository`, etc.)
+- ✅ Repositorio por entidad 
 - ✅ Separación de responsabilidades (SRP)
 - ✅ Validaciones con `[Required]`, `[EmailAddress]`
 - ✅ DTOs para control de exposición de datos
@@ -138,7 +138,7 @@ Todas las dependencias son resueltas por el contenedor de servicios de .NET.
 
 Funcionalidad	Estado
 CRUD Empleados, Departamentos, Puestos	
-Validación de datos ([Required], etc.)	
+Validación de datos 
 Uso de DTOs para limpieza de modelo	
 Repositorios personalizados	
 Inyección de dependencias (DbContext y Repos)	
